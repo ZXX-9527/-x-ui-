@@ -5,4 +5,5 @@
 待检查的URL放在txt文件里，命名为url.txt
 把脚本和url.txt放在同一目录下
 运行脚本
+
 python  单线程.py 
